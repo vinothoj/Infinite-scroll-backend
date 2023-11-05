@@ -1,5 +1,5 @@
 # orkes-backend
 
 ```bash
-    yarn start
+    npm start
 ```
